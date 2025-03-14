@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-import pandas as pd
 import numpy as np
 
 mp_drawing = mp.solutions.drawing_utils
