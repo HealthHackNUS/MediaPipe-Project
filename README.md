@@ -33,3 +33,6 @@ This pilot project demonstrates the potential for accessible, efficient, and eff
 - OpenCV
 - MediaPipe
 - NumPy
+- GStreamer
+- GObhect Introspection (GI)
+- Hailo TAPPAS SDK
